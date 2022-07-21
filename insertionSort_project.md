@@ -27,3 +27,5 @@ Data Structures and Algorithms Project-1
 4- After the array is sorted, please write if the number 18 is the average case, worst case or best case.
 
 - Average case. (18 is one of the two numbers in the middle of the array.)
+
+[patika.dev](www.patika.dev)
