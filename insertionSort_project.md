@@ -28,4 +28,19 @@ Data Structures and Algorithms Project-1
 
 - Average case. (18 is one of the two numbers in the middle of the array.)
 
+
+* Write the first 4 steps of [7,3,5,8,2,9,4,15.6] according to Insertion Sort.
+
+| 7  | 3  | 5  | 8  | 2  | 9  | 4  | 15  | 6  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 3  | 7  | 5  | 8  | 2  | 9  | 4  | 15  | 6  |
+| 3  | 5  | 7  | 8  | 2  | 9  | 4  | 15  | 6  | 
+| 2  | 3  | 5  | 7  | 8  | 9  | 4  | 15  | 6  |
+| 2  | 3  | 4  | 5  | 7  | 8  | 9  | 15  | 6  |
+
+
+
+
+
+
 [patika.dev](www.patika.dev)
