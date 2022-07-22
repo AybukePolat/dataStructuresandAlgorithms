@@ -1,5 +1,5 @@
 # Patika.dev Data Structures and Algorithms Projects
-Data Structures and Algorithms Project-2
+Data Structures and Algorithms Project-3
 
 - Binary Search Tree
 
@@ -22,7 +22,7 @@ Example: root is x. y is found to the right of root. To its left is a z, etc.
                      
                      
                      
-**Step2**
+**Step 2**
          
              
                         7
@@ -31,12 +31,12 @@ Example: root is x. y is found to the right of root. To its left is a z, etc.
                      /        
                     1   
                    
-**Step3**
+**Step 3**
 
 
                          7
                        /   \
-                      5      8
+                      5     8
                      /        
                     1   
                     
